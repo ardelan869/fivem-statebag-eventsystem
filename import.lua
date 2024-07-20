@@ -1,5 +1,4 @@
 local registeredEvent, CONTEXT = {}, IsDuplicityVersion() and 'server' or 'client';
-local _AddEventHandler = AddEventHandler;
 
 if CONTEXT == 'server' then
   ---@param eventName string
