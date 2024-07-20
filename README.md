@@ -1,4 +1,4 @@
-> [!IMPORTANT]  
+> [!WARNING]  
 > It has been tested, but it still could be unreliable or buggy use it at your own risk.
 
 # fivem-statebag-eventsystem
