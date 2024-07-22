@@ -16,7 +16,7 @@ You can use everything like you did before, the only difference is that it "*use
 # Usage
 
 Add the file `@resourceName/import.lua` into the `shared_scripts` section of your desired `fxmanifest.lua`.\
-`@resourceName` refers to the name of the resource; name the resource as you desire, but ensure that the names are consistent.
+`@resourceName` refers to the name of the resource, name the resource as you desire.
 
 ## Example
 
